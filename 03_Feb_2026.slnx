@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="AddTwoNumbers/AddTwoNumbers/AddTwoNumbers.csproj" />
+  <Project Path="Ascending/Ascending/Ascending.csproj" />
+  <Project Path="Break_Continue/Break_Continue/Break_Continue.csproj" />
+  <Project Path="CalculationApp/CalculationApp/CalculationApp.csproj" />
+  <Project Path="CoffeeMachine/CoffeeMachine/CoffeeMachine.csproj" />
+  <Project Path="CoffeeMachine_goto/CoffeeMachine_goto/CoffeeMachine_goto.csproj" />
+  <Project Path="EnumColorBasic/EnumColorBasic/EnumColorBasic.csproj" />
+  <Project Path="EnumDaysOfWeek/EnumDaysOfWeek/EnumDaysOfWeek.csproj" />
+  <Project Path="GreaterNumber/GreaterNumber/GreaterNumber.csproj" />
+  <Project Path="HelloWorld/HelloWorld.csproj" Id="fff2a25f-4c11-4224-9f93-168d51950298" />
+  <Project Path="LanguageSpokenEnum/LanguageSpokenEnum/LanguageSpokenEnum.csproj" />
+  <Project Path="MathematicalTable/MathematicalTable/MathematicalTable.csproj" />
+</Solution>
