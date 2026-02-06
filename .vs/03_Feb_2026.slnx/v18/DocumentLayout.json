@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrav\\OneDrive\\Desktop\\SpektraSystems\\03_Feb_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF2A25F-4C11-4224-9F93-168D51950298}|HelloWorld\\HelloWorld.csproj|c:\\users\\shrav\\onedrive\\desktop\\spektrasystems\\03_feb_2026\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF2A25F-4C11-4224-9F93-168D51950298}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB25BFC9-3D7C-C88F-8931-DEF75DD1D74C}|AddTwoNumbers\\AddTwoNumbers\\AddTwoNumbers.csproj|c:\\users\\shrav\\onedrive\\desktop\\spektrasystems\\03_feb_2026\\addtwonumbers\\addtwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB25BFC9-3D7C-C88F-8931-DEF75DD1D74C}|AddTwoNumbers\\AddTwoNumbers\\AddTwoNumbers.csproj|solutionrelative:addtwonumbers\\addtwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrav\\OneDrive\\Desktop\\SpektraSystems\\03_Feb_2026\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\shrav\\OneDrive\\Desktop\\SpektraSystems\\03_Feb_2026\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:35:06.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrav\\OneDrive\\Desktop\\SpektraSystems\\03_Feb_2026\\AddTwoNumbers\\AddTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "AddTwoNumbers\\AddTwoNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\shrav\\OneDrive\\Desktop\\SpektraSystems\\03_Feb_2026\\AddTwoNumbers\\AddTwoNumbers\\Program.cs",
+              "RelativeToolTip": "AddTwoNumbers\\AddTwoNumbers\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:21:34.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
